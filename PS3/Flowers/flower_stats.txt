@@ -1,0 +1,5 @@
+Type: daisy, label: 1, number of samples: 769
+Type: dandelion, label: 2, number of samples: 1052
+Type: rose, label: 3, number of samples: 784
+Type: sunflower, label: 4, number of samples: 734
+Type: tulip, label: 5, number of samples: 984
